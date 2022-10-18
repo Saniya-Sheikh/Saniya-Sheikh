@@ -2,7 +2,7 @@
 
 I am Saniya Sheikh, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-saniya-sheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saniya-sheikh16/)](https://www.linkedin.com/in/saniya-sheikh16/)
+[![Linkedin Badge](https://img.shields.io/badge/-saniyasheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saniya-sheikh16/)](https://www.linkedin.com/in/saniya-sheikh16/)
 
 ## ⚡ Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
